@@ -1,0 +1,18 @@
+CAP-MS data
+Copyright (c) 2026 Bonn Kleiford Seranilla and Nils Löhndorf
+
+The data in this repository (the folder instances/, configurations.csv and
+reference_results.csv) are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to share (copy and redistribute) and adapt (remix, transform and
+build upon) the data for any purpose, including commercially, as long as you
+give appropriate credit, provide a link to the license and indicate if changes
+were made.
+
+Summary: https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The base instances cap44, cap84 and cap114 (instances/orlib/) are from the
+OR-Library: J. E. Beasley, OR-Library: distributing test problems by electronic
+mail, Journal of the Operational Research Society 41(11), 1069-1072, 1990.

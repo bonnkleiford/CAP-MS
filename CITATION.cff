@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use CAP-MS, please cite the paper below."
+title: "CAP-MS: a benchmark for multistage reliable facility location under disruptions"
+authors:
+  - family-names: Seranilla
+    given-names: Bonn Kleiford
+    email: bs00@aubmed.ac.cy
+  - family-names: Löhndorf
+    given-names: Nils
+license: CC-BY-4.0
+repository-code: "https://github.com/bonnkleiford/CAP-MS"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Seranilla
+      given-names: Bonn Kleiford
+    - family-names: Löhndorf
+      given-names: Nils
+  title: "Dynamic Reliable Facility Location under Facility Disruption Uncertainty using Multistage Stochastic Integer Programming"
+  journal: "OR Spectrum"
+  year: 2026
+  notes: "Submitted"
