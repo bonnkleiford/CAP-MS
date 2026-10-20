@@ -160,32 +160,9 @@ To keep results comparable:
 
 New results, improved bounds and corrections are welcome as issues or pull requests.
 
-## How to cite
-
-If you use CAP-MS, please cite the paper and the OR-Library:
-
-```bibtex
-@article{seranilla2026capms,
-  author  = {Seranilla, Bonn Kleiford and L{\"o}hndorf, Nils},
-  title   = {Dynamic Reliable Facility Location under Facility Disruption Uncertainty using Multistage Stochastic Integer Programming},
-  journal = {OR Spectrum},
-  year    = {2026},
-  note    = {Submitted}
-}
-
-@article{beasley1990orlib,
-  author  = {Beasley, John E.},
-  title   = {{OR-Library}: Distributing Test Problems by Electronic Mail},
-  journal = {Journal of the Operational Research Society},
-  volume  = {41},
-  number  = {11},
-  pages   = {1069--1072},
-  year    = {1990}
-}
-```
 
 ## License
 
 The data (`instances/`, `configurations.csv`, `reference_results.csv`) are licensed under [CC BY 4.0](LICENSE-DATA): you may share and adapt them with attribution. The code (`capms.py`, `generate_paths.py`) is licensed under the [MIT License](LICENSE). The base instances are from the OR-Library (Beasley 1990).
 
-**Contact:** Bonn Kleiford Seranilla (bs00@aubmed.ac.cy)
+**Contact:** Bonn Kleiford Seranilla (bonnkleiford@gmail.com)
