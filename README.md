@@ -5,10 +5,6 @@
 
 **CAP-MS** extends the capacitated facility location instances *CAP* of the [OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/capinfo.html) (Beasley 1990) to a **multistage, stochastic** setting: facilities fail at random over a planning horizon and the planner decides, stage by stage, which facilities to (re-)open, which to close and how to serve demand.
 
-It is the benchmark of the paper
-
-> B. K. Seranilla and N. Löhndorf. *Reliable Facility Location under Facility Disruption Uncertainty using Multistage Stochastic Integer Programming.* OR Spectrum (submitted).
-
 To our knowledge, CAP-MS is the first public benchmark for multistage capacitated facility location with facility disruptions. It contains **135 instances and 540 configurations**, three sets of disruption paths per instance (for training and out-of-sample testing), and reference results of two solution methods, SDDiP and shadow price approximation (SPA).
 
 ---
